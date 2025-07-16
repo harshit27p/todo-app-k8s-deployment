@@ -17,7 +17,6 @@ This project demonstrates how to deploy a simple Node.js-based web application u
 ---
 
 ## 🗂️ Project Structure
-
 .
 ├── app/
 │ ├── index.html
@@ -33,7 +32,8 @@ This project demonstrates how to deploy a simple Node.js-based web application u
 
 ## 🚀 Deployment Steps
 
-### ✅ 1. Create a Container Registry on IBM Cloud
+
+✅ 1. Create a Container Registry on IBM Cloud
 
 ```bash
 ibmcloud cr namespace-add utilities-cloud-registry
