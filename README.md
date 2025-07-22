@@ -17,6 +17,7 @@ This project demonstrates how to deploy a simple Node.js-based web application u
 ---
 
 ## 🗂️ Project Structure
+```bash
 .
 ├── app/
 │ ├── index.html
@@ -26,7 +27,7 @@ This project demonstrates how to deploy a simple Node.js-based web application u
 ├── app-deploy.yaml
 ├── service.yaml
 └── README.md
-
+```
 
 ---
 
@@ -83,3 +84,10 @@ Replace <PUBLIC_IP> and <NODE_PORT> with the actual values retrieved in step 7.
 ✅ Outcome
 
 A live-running Node.js web app deployed via Kubernetes, accessible globally from the browser using the public IP and port. This setup enables containerized application delivery in a scalable, cloud-native manner.
+
+---
+## 🎓 Related Learning Resources
+
+- 🔗 [IBM Cloud Security Analyst Simulation (MDL-305)](https://skills.yourlearning.ibm.com/activity/MDL-305?planId=PLAN-2EC3A305F2C3&sectionId=SECTION-B&planIdFromParentTab=PLAN-2EC3A305F2C3&sectionIdFromParentTab=SECTION-B&planIdForChildTab=PLAN-2EC3A305F2C3)
+
+- 🔗 [IBM Cloud Security Fundamentals Path (PLAN-2EC3A305F2C3)](https://skills.yourlearning.ibm.com/activity/PLAN-2EC3A305F2C3?focuslmsId=MDL-306)
